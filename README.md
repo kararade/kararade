@@ -21,7 +21,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&labelColor=C21325)&nbsp;&nbsp;&nbsp;
 ![cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress&labelColor=17202c)&nbsp;&nbsp;&nbsp;
 ![playwright](https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=playwright&labelColor=000000)&nbsp;&nbsp;&nbsp;
-![nx](https://img.shields.io/badge/-Nx-05122A?style=flat&logo=nx&labelColor=000000)&nbsp;&&nbsp;nbsp;
+![nx](https://img.shields.io/badge/-Nx-05122A?style=flat&logo=nx&labelColor=000000)&nbsp;&nbsp;&nbsp;
 ![docker](https://img.shields.io/badge/-docker-05122A?style=flat&logo=docker&labelColor=000000)&nbsp;&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&labelColor=000000)&nbsp;&nbsp;&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&labelColor=000000)&nbsp;&nbsp;&nbsp;
