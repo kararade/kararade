@@ -5,9 +5,9 @@
 🌎 &nbsp; I have been working remotely as a Software Engineer contractor or freelancer for almost 10 years.\
 🖥️ &nbsp; I am currently working for [earnin](https://www.earnin.com/) via the [X-Team](https://x-team.com/) as a Senior Software Engineer.\
 🐈 &nbsp; My wife and I have adopted 4 cats. They are Penelope, Leily, Bella, and Pato.\
-🇵🇾 &nbsp; I currently live in Paraguay. I am usually between the cities of Pilar and Encarnacion.\
+🇵🇾 &nbsp; I currently live in Encarnacion in Paraguay. 
 🗣️ &nbsp; I am a native Spanish speaker and an advanced English speaker.\
-📨 &nbsp; Feel free to contact me! You can shoot me an email at [carlosalmeida.xon@gmail.com](mailto:carlosalmeida.xon@gmail.com)! I'll try to respond as soon as I can.\
+📨 &nbsp; Feel free to contact me! You can email me at [carlosalmeida.xon@gmail.com](mailto:carlosalmeida.xon@gmail.com)! I'll try to respond as soon as I can.\
 📅 &nbsp; If you prefer, you can [schedule a 30-minute meeting with me](https://calendly.com/kararade/30min) at your convenience too! \
 📄 &nbsp; Have a look at my [LinkedIn](https://www.linkedin.com/in/kararade/) and my [Upwork](https://www.upwork.com/freelancers/kararade) profiles for more details about me and my career!
 
