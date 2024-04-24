@@ -48,4 +48,4 @@
 <a href="https://linkedin.com/in/kararade"><img src="https://img.shields.io/badge/-Carlos_Almeida-05122A?style=flat&logo=linkedin&labelColor=000000"/></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:carlosalmeida.xon@gmail.com"><img src="https://img.shields.io/badge/-carlosalmeida.xon@gmail.com-05122A?style=flat&logo=gmail&labelColor=000000"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.upwork.com/freelancers/kararade"><img src="https://img.shields.io/badge/-Hire_me_on_Upwork!_-05122A?style=flat&logo=upwork&labelColor=000000"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://f4cy6d8zlgp.typeform.com/to/eXFPVCCy"><img src="https://img.shields.io/badge/-Hiring?_Let_us_get_a_chat!-05122A?style=flat&logo=googlecalendar&labelColor=ffffff"/></a>
+<a href="https://f4cy6d8zlgp.typeform.com/to/eXFPVCCy"><img src="https://img.shields.io/badge/-Let_us_get_a_chat!-05122A?style=flat&logo=googlecalendar&labelColor=ffffff"/></a>
