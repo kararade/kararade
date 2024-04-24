@@ -2,13 +2,11 @@
 
 ## 👨🏻‍💻 About Me
 
-🌎 &nbsp; I have been working remotely as a Software Engineer contractor or freelancer for almost 10 years.\
-🖥️ &nbsp; I am currently working for [earnin](https://www.earnin.com/) via the [X-Team](https://x-team.com/) as a Senior Software Engineer.\
-🐈 &nbsp; My wife and I have adopted 4 cats. They are Penelope, Leily, Bella, and Pato.\
-🇵🇾 &nbsp; I currently live in Encarnacion in Paraguay.\
+🌎 &nbsp; I have been working remotely as a Software Engineer contractor or freelancer for over 10 years.\
+🖥️ &nbsp; I am currently working for the [X-Team](https://x-team.com/) as a remote Senior Full Stack Engineer.\
+🇵🇾 &nbsp; I currently live in Paraguay.\
 🗣️ &nbsp; I am a native Spanish speaker and an advanced English speaker.\
-📨 &nbsp; Feel free to contact me! You can email me at [carlosalmeida.xon@gmail.com](mailto:carlosalmeida.xon@gmail.com)! I'll try to respond as soon as I can.\
-📅 &nbsp; If you prefer, you can [schedule a 30-minute meeting with me](https://calendly.com/kararade/30min) at your convenience too! \
+📅 &nbsp; Are you hiring? [Let's have a chat!](https://f4cy6d8zlgp.typeform.com/to/eXFPVCCy).\
 📄 &nbsp; Have a look at my [LinkedIn](https://www.linkedin.com/in/kararade/) and my [Upwork](https://www.upwork.com/freelancers/kararade) profiles for more details about me and my career!
 
 ## 🛠 Tech Stack and Tools
@@ -49,4 +47,4 @@
 <a href="https://linkedin.com/in/kararade"><img src="https://img.shields.io/badge/-Carlos_Almeida-05122A?style=flat&logo=linkedin&labelColor=000000"/></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:carlosalmeida.xon@gmail.com"><img src="https://img.shields.io/badge/-carlosalmeida.xon@gmail.com-05122A?style=flat&logo=gmail&labelColor=000000"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.upwork.com/freelancers/kararade"><img src="https://img.shields.io/badge/-Hire_me_on_Upwork!_-05122A?style=flat&logo=upwork&labelColor=000000"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://calendly.com/kararade/30min"><img src="https://img.shields.io/badge/-Schedule_a_meeting_with_me!-05122A?style=flat&logo=googlecalendar&labelColor=ffffff"/></a>
+<a href="https://f4cy6d8zlgp.typeform.com/to/eXFPVCCy"><img src="https://img.shields.io/badge/-Schedule_a_meeting_with_me!-05122A?style=flat&logo=googlecalendar&labelColor=ffffff"/></a>
