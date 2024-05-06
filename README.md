@@ -5,11 +5,10 @@
 🌎 &nbsp; I’m a Senior Full Stack Software Engineer with 10+ years of experience.\
 👨🏻‍💻 &nbsp; I have also helped with technical interviews and was the tech lead for the different companies for which I have worked.\
 🖥️ &nbsp; I am currently working for the [X-Team](https://x-team.com/) as a remote Senior Full Stack Software Engineer.\
-📅 &nbsp; Are you hiring? <a href="https://calendly.com/kararade/introductory-call" target="_blank">Let's have a chat!</a>
-.\
-📄 &nbsp; Have a look at my [LinkedIn](https://www.linkedin.com/in/kararade/) and my [Upwork](https://www.upwork.com/freelancers/kararade) profiles for more details about me and my career!
+📅 &nbsp; Are you hiring? <a href="https://calendly.com/kararade/introductory-call" target="_blank">Let's have a chat!</a>.\
+📄 &nbsp; Have a look at my [LinkedIn](https://www.linkedin.com/in/kararade/) and my [Upwork](https://www.upwork.com/freelancers/kararade) profiles for more details about me and my career!\
 🇵🇾 &nbsp; I am currently located in Paraguay.\
-🗣️ &nbsp; I am a native Spanish speaker and an advanced English speaker.\
+🗣️ &nbsp; I am a native Spanish speaker and an advanced English speaker.
 
 ## 🛠 Tech Stack and Tools
 
